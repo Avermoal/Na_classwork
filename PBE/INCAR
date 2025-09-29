@@ -1,8 +1,7 @@
 INCAR created by Atomic Simulation Environment
  ENCUT = 500
- GGA = PE
- IBRION = 2
- IBRION = 1
+ ISIF = 3
+ IBRION =
  NSW = 100
  LVTOT = .TRUE.
  LVHAR = .TRUE.
